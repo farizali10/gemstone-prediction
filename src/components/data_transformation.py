@@ -119,4 +119,6 @@ class DataTransformation:
             logging.info("Exception occured in the initate_datatransformation")
             raise CustomException(e,sys)
         
+
+
         
